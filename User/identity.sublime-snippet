@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->user->identity
+]]></content>
+	<tabTrigger>Ui</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - User::identity</description>
+</snippet>

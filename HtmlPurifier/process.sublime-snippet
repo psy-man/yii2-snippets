@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= HtmlPurifier::process(${1:html}); ?>
+]]></content>
+	<tabTrigger>HPnp</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - HtmlPurifier::process</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::encode(${1:content}); ?>
+]]></content>
+	<tabTrigger>He</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::encode</description>
+</snippet>

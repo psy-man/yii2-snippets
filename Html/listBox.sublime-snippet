@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::listBox(${1:name}, ${2:selection}, ${3:items}, ${4:['${5:option}' => ${6:value}]}); ?>
+]]></content>
+	<tabTrigger>Hlb</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::listBox</description>
+</snippet>

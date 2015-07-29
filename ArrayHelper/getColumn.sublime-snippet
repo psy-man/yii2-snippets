@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ArrayHelper::getColumn(${1:array}, ${2:name}, ${3:keepKeys});
+]]></content>
+	<tabTrigger>AHgc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - ArrayHelper::getColumn</description>
+</snippet>

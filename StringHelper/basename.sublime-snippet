@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+StringHelper::basename(${1:path}, ${2:suffix})
+]]></content>
+	<tabTrigger>SHbn</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - StringHelper::basename</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->set(${1:key}, ${2:value})
+]]></content>
+	<tabTrigger>Sset</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::mailto(${1:text}, ${2:email}, ${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>Hmail</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::mailto</description>
+</snippet>

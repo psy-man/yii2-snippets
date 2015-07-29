@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->gcSession(${1:maxLifetime})
+]]></content>
+	<tabTrigger>Sgcs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::gcSession</description>
+</snippet>

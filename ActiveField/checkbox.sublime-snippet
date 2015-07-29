@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= \$form->field(${1:\$model}, '${2:attribute}')->checkbox(${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>AFcb</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - $form->field()->checkbox</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FileHelper::findFiles(${1:dir}, ${2:['${3:option}' => ${4:value}]});
+]]></content>
+	<tabTrigger>FHff</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - FileHelper::findFiles</description>
+</snippet>

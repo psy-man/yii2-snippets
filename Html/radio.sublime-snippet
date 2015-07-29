@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::radio(${1:name}, ${2:checked}, ${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>Hrd</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::radio</description>
+</snippet>

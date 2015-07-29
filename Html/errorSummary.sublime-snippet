@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::errorSummary(${1:models}, ${2:['${3:option}' => ${4:value}]}); ?>
+]]></content>
+	<tabTrigger>Hes</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::errorSummary</description>
+</snippet>

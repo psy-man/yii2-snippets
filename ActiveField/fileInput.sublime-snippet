@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= \$form->field(${1:\$model}, '${2:attribute}')->fileInput(${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>AFfi</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - $form->field()->fileInput</description>
+</snippet>

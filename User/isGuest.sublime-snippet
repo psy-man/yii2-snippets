@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->user->isGuest
+]]></content>
+	<tabTrigger>Uig</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - User::isGuest</description>
+</snippet>

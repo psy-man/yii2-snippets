@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->gCProbability
+]]></content>
+	<tabTrigger>SGCP</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::gCProbability</description>
+</snippet>

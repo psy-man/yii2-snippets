@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::input(${1:type}, ${2:name}, ${3:value}, ${4:['${5:option}' => ${6:value}]}); ?>
+]]></content>
+	<tabTrigger>Hi</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::input</description>
+</snippet>

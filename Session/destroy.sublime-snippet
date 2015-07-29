@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->destroy()
+]]></content>
+	<tabTrigger>Sdesr</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::destroy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->isAjax
+]]></content>
+	<tabTrigger>Ria</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::isAjax</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+StringHelper::byteLength(${1:string})
+]]></content>
+	<tabTrigger>SHbl</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - StringHelper::byteLength</description>
+</snippet>

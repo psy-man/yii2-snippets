@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::activeCheckboxList(${1:model}, ${2:attribute}, ${3:items}, ${4:['${5:option}' => ${6:value}]}); ?>
+]]></content>
+	<tabTrigger>Hacbl</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::activeCheckboxList</description>
+</snippet>

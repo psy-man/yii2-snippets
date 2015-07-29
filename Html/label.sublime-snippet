@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::label(${1:content}, ${2:for}, ${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>Hl</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::label</description>
+</snippet>

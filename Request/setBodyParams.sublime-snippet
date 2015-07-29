@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->setBodyParams(${1:values})
+]]></content>
+	<tabTrigger>Rsbps</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::setBodyParams</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Url::isRelative(${1:url})
+]]></content>
+	<tabTrigger>Uir</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Url::isRelative</description>
+</snippet>

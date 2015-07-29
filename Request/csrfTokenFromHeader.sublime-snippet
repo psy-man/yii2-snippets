@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->csrfTokenFromHeader
+]]></content>
+	<tabTrigger>Rcsrfh</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::csrfTokenFromHeader</description>
+</snippet>

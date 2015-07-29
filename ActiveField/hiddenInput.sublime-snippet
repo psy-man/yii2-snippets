@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= \$form->field(${1:\$model}, '${2:attribute}')->hiddenInput(${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>AFhi</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - $form->field()->hiddenInput</description>
+</snippet>

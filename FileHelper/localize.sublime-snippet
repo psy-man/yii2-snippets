@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FileHelper::localize(${1:file}, ${2:language}, ${3:sourceLanguage});
+]]></content>
+	<tabTrigger>FHl</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - FileHelper::localize</description>
+</snippet>

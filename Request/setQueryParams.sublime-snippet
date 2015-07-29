@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->setQueryParams(${1:values})
+]]></content>
+	<tabTrigger>Rsqps</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::setQueryParams</description>
+</snippet>

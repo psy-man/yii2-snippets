@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->isPost
+]]></content>
+	<tabTrigger>Rip</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::isPost</description>
+</snippet>

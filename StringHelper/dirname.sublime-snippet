@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+StringHelper::dirname(${1:path})
+]]></content>
+	<tabTrigger>SHdn</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - StringHelper::dirname</description>
+</snippet>

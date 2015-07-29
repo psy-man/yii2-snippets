@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Url::toRoute(${1:route}, ${2:scheme})
+]]></content>
+	<tabTrigger>Utr</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Url::toRoute</description>
+</snippet>

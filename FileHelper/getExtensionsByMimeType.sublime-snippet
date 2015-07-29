@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FileHelper::getExtensionsByMimeType(${1:mimeType}, ${2:magicFile});
+]]></content>
+	<tabTrigger>FHgebmt</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - FileHelper::getExtensionsByMimeType</description>
+</snippet>

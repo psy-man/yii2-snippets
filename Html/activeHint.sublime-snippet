@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::activeHint(${1:model}, ${2:attribute}, ${3:['${4:option}' => ${5:value}]}); ?>
+]]></content>
+	<tabTrigger>Hah</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::activeHint</description>
+</snippet>

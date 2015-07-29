@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FileHelper::createDirectory(${1:path}, ${2:mode}, ${3:recursive});
+]]></content>
+	<tabTrigger>FHcd</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - FileHelper::createDirectory</description>
+</snippet>

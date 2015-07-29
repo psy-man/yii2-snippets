@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Url::home(${1:scheme})
+]]></content>
+	<tabTrigger>Uh</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Url::home</description>
+</snippet>

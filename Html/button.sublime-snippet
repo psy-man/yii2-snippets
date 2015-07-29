@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::button(${1:content}, ${2:['${3:option}' => ${4:value}]}); ?>
+]]></content>
+	<tabTrigger>Hb</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::button</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ArrayHelper::getValue(${1:array}, ${2:key}, ${3:default});
+]]></content>
+	<tabTrigger>AHgv</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - ArrayHelper::getValue</description>
+</snippet>

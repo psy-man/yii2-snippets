@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->savePath
+]]></content>
+	<tabTrigger>Ssp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::savePath</description>
+</snippet>

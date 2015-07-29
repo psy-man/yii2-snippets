@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::submitInput(${1:label}, ${2:['${3:option}' => ${4:value}]}); ?>
+]]></content>
+	<tabTrigger>Hsi</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::submitInput</description>
+</snippet>

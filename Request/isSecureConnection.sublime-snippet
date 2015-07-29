@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->isSecureConnection
+]]></content>
+	<tabTrigger>Risc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::isSecureConnection</description>
+</snippet>

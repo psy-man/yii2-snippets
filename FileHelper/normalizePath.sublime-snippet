@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FileHelper::normalizePath(${1:path}, ${2:ds});
+]]></content>
+	<tabTrigger>FHnp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - FileHelper::normalizePath</description>
+</snippet>

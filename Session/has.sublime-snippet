@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->has(${1:key})
+]]></content>
+	<tabTrigger>Shas</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::has</description>
+</snippet>

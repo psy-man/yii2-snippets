@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+StringHelper::truncate(${1:string}, ${2:length}, ${3:suffix}, ${4:encode}, ${5:asHtml})
+]]></content>
+	<tabTrigger>SHtr</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - StringHelper::truncate</description>
+</snippet>

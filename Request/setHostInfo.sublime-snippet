@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->request->setHostInfo(${1:value})
+]]></content>
+	<tabTrigger>Rshi</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Request::setHostInfo</description>
+</snippet>

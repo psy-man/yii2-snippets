@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->removeAllFlashes()
+]]></content>
+	<tabTrigger>Srafl</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::removeAllFlashes</description>
+</snippet>

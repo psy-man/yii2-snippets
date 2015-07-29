@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->get(${1:key}, ${2:defaultValue})
+]]></content>
+	<tabTrigger>Sget</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::get</description>
+</snippet>

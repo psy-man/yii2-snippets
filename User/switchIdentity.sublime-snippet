@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->user->switchIdentity(${1:identity}, ${2:duration})
+]]></content>
+	<tabTrigger>Usi</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - User::switchIdentity</description>
+</snippet>

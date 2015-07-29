@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->getFlash(${1:key}, ${2:defaultValue}, ${3:delete})
+]]></content>
+	<tabTrigger>Sfl</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::getFlash</description>
+</snippet>

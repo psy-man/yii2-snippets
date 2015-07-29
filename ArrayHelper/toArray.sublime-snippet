@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ArrayHelper::toArray(${1:object}, ${2:properties}, ${3:recursive});
+]]></content>
+	<tabTrigger>AHta</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - ArrayHelper::toArray</description>
+</snippet>

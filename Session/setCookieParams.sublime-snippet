@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->setCookieParams(${1:array value})
+]]></content>
+	<tabTrigger>Sscp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::setCookieParams</description>
+</snippet>

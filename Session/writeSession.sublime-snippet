@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->writeSession(${1:id}, ${2:data})
+]]></content>
+	<tabTrigger>Swrite</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Session::writeSession</description>
+</snippet>

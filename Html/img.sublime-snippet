@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::img(${1:src}, ${2:['${3:option}' => ${4:value}]}); ?>
+]]></content>
+	<tabTrigger>Himg</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - Html::img</description>
+</snippet>
