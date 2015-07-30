@@ -1,5 +1,7 @@
 # Sublime Text Yii2 Snippets
+
 Useful snippets for [Sublime text](https://sublime.wbond.net/installation) for Yii2 development
+
 
 ## Navigation
 - [Installation](#installation)
@@ -19,11 +21,17 @@ Useful snippets for [Sublime text](https://sublime.wbond.net/installation) for Y
 - [License](#license)
 - [PS](#ps)
 
+
 ### Installation
+
 There are several methods to install package.
+
 1. Search for Yii2 Snippets on Package Control
+
 2. Clone the repository into your Sublime Text 2/3 packages directory. ```git clone https://github.com/filipyev/yii2-snippets.git ```
 **Note:** You can find your packages directory by going to Preferences -> Browse Packages.
+
+
 
 ### Yii
 
@@ -286,7 +294,9 @@ There are several methods to install package.
 | offsetGet                        | Sog          |
 | offsetUnset                      | Sou          |
 
+
 ### Todos
+
  - Improve shortcuts
  - Add ListView, GridView and ect...
  - Add find model with params
@@ -296,8 +306,12 @@ There are several methods to install package.
  - Add validation rules
  - Add other useful snippets
 
+
 ### License
+
 Yii2 Snippets is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
+
 ### PS
+
 If you have any ideas to improve this package or you found any errors, please contact me via Github.
