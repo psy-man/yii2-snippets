@@ -4,5 +4,5 @@ Yii::\$app->session->isActive
 ]]></content>
 	<tabTrigger>Sia</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::isActive</description>
+	<description>Yii2 - Yii::$app->session->isActive</description>
 </snippet>

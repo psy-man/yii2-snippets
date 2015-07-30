@@ -4,5 +4,5 @@ Yii::\$app->request->validateCsrfToken(${1:token})
 ]]></content>
 	<tabTrigger>Rcsrfv</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::validateCsrfToken</description>
+	<description>Yii2 - Yii::$app->request->validateCsrfToken</description>
 </snippet>

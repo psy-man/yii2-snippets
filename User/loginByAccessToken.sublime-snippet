@@ -4,5 +4,5 @@ Yii::\$app->user->loginByAccessToken(${1:token}, ${2:type})
 ]]></content>
 	<tabTrigger>Ulbat</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::loginByAccessToken</description>
+	<description>Yii2 - Yii::$app->user->loginByAccessToken</description>
 </snippet>

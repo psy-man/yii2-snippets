@@ -4,5 +4,5 @@ Yii::\$app->request->baseUrl
 ]]></content>
 	<tabTrigger>Rbu</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::baseUrl</description>
+	<description>Yii2 - Yii::$app->request->baseUrl</description>
 </snippet>

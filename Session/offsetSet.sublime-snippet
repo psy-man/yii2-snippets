@@ -4,5 +4,5 @@ Yii::\$app->session->offsetSet(${1:offset}, ${2:item})
 ]]></content>
 	<tabTrigger>Sos</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::offsetSet</description>
+	<description>Yii2 - Yii::$app->session->offsetSet</description>
 </snippet>

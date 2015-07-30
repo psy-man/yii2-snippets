@@ -4,5 +4,5 @@ Yii::\$app->request->isPjax
 ]]></content>
 	<tabTrigger>Ripj</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isPjax</description>
+	<description>Yii2 - Yii::$app->request->isPjax</description>
 </snippet>

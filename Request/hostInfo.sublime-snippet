@@ -4,5 +4,5 @@ Yii::\$app->request->hostInfo
 ]]></content>
 	<tabTrigger>Rhi</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::hostInfo</description>
+	<description>Yii2 - Yii::$app->request->hostInfo</description>
 </snippet>

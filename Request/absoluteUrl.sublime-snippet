@@ -4,5 +4,5 @@ Yii::\$app->request->absoluteUrl
 ]]></content>
 	<tabTrigger>Rau</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::absoluteUrl</description>
+	<description>Yii2 - Yii::$app->request->absoluteUrl</description>
 </snippet>

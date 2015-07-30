@@ -4,5 +4,5 @@ Yii::\$app->session->set(${1:key}, ${2:value})
 ]]></content>
 	<tabTrigger>Sset</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::set</description>
+	<description>Yii2 - Yii::$app->session->set</description>
 </snippet>

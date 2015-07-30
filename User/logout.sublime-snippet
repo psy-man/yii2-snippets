@@ -4,5 +4,5 @@ Yii::\$app->user->logout(${1:destroySession})
 ]]></content>
 	<tabTrigger>Ulogout</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::logout</description>
+	<description>Yii2 - Yii::$app->user->logout</description>
 </snippet>

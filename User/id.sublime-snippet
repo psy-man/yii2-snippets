@@ -4,5 +4,5 @@ Yii::\$app->user->id
 ]]></content>
 	<tabTrigger>Uid</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::id</description>
+	<description>Yii2 - Yii::$app->user->id</description>
 </snippet>

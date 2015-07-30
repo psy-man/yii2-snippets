@@ -4,5 +4,5 @@ Yii::\$app->session->closeSession()
 ]]></content>
 	<tabTrigger>Scs</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::closeSession</description>
+	<description>Yii2 - Yii::$app->session->closeSession</description>
 </snippet>

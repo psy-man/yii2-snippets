@@ -4,5 +4,5 @@ Yii::\$app->request->isHead
 ]]></content>
 	<tabTrigger>Rih</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isHead</description>
+	<description>Yii2 - Yii::$app->request->isHead</description>
 </snippet>

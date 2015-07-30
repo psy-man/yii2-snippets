@@ -4,5 +4,5 @@ Yii::\$app->session->useTransparentSessionID
 ]]></content>
 	<tabTrigger>Sutsi</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::useTransparentSessionID</description>
+	<description>Yii2 - Yii::$app->session->useTransparentSessionID</description>
 </snippet>

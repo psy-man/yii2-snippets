@@ -4,5 +4,5 @@ Yii::\$app->session->hasFlash(${1:key})
 ]]></content>
 	<tabTrigger>Shfl</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::hasFlash</description>
+	<description>Yii2 - Yii::$app->session->hasFlash</description>
 </snippet>

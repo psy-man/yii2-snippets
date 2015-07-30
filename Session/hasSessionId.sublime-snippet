@@ -4,5 +4,5 @@ Yii::\$app->session->hasSessionId
 ]]></content>
 	<tabTrigger>Shsi</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::hasSessionId</description>
+	<description>Yii2 - Yii::$app->session->hasSessionId</description>
 </snippet>

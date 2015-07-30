@@ -4,5 +4,5 @@ Yii::\$app->user->login(${1:identity}, ${2:duration})
 ]]></content>
 	<tabTrigger>Ul</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::login</description>
+	<description>Yii2 - Yii::$app->user->login</description>
 </snippet>

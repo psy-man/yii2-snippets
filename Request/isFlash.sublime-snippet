@@ -4,5 +4,5 @@ Yii::\$app->request->isFlash
 ]]></content>
 	<tabTrigger>Rif</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isFlash</description>
+	<description>Yii2 - Yii::$app->request->isFlash</description>
 </snippet>

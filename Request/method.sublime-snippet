@@ -4,5 +4,5 @@ Yii::\$app->request->method
 ]]></content>
 	<tabTrigger>Rm</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::method</description>
+	<description>Yii2 - Yii::$app->request->method</description>
 </snippet>

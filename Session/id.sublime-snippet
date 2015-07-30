@@ -4,5 +4,5 @@ Yii::\$app->session->id
 ]]></content>
 	<tabTrigger>Sid</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::id</description>
+	<description>Yii2 - Yii::$app->session->id</description>
 </snippet>

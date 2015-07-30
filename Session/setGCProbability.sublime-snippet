@@ -4,5 +4,5 @@ Yii::\$app->session->setGCProbability(${1:value})
 ]]></content>
 	<tabTrigger>SsGCP</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::setGCProbability</description>
+	<description>Yii2 - Yii::$app->session->setGCProbability</description>
 </snippet>

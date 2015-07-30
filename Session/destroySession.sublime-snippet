@@ -4,5 +4,5 @@ Yii::\$app->session->destroySession(${1:id})
 ]]></content>
 	<tabTrigger>Sdestroy</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::destroySession</description>
+	<description>Yii2 - Yii::$app->session->destroySession</description>
 </snippet>

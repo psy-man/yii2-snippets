@@ -4,5 +4,5 @@ Yii::\$app->session->open()
 ]]></content>
 	<tabTrigger>Sop</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::open</description>
+	<description>Yii2 - Yii::$app->session->open</description>
 </snippet>

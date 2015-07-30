@@ -4,5 +4,5 @@ Yii::\$app->user->isGuest
 ]]></content>
 	<tabTrigger>Uig</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::isGuest</description>
+	<description>Yii2 - Yii::$app->user->isGuest</description>
 </snippet>

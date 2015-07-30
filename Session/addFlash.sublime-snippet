@@ -4,5 +4,5 @@ Yii::\$app->session->addFlash(${1:key}, ${2:value}, ${3:removeAfterAccess})
 ]]></content>
 	<tabTrigger>Safl</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::addFlash</description>
+	<description>Yii2 - Yii::$app->session->addFlash</description>
 </snippet>

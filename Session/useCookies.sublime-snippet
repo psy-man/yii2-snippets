@@ -4,5 +4,5 @@ Yii::\$app->session->useCookies
 ]]></content>
 	<tabTrigger>Suc</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::useCookies</description>
+	<description>Yii2 - Yii::$app->session->useCookies</description>
 </snippet>

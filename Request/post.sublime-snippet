@@ -4,5 +4,5 @@ Yii::\$app->request->post(${1:name}, ${2:defaultValue})
 ]]></content>
 	<tabTrigger>Rp</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::post</description>
+	<description>Yii2 - Yii::$app->request->post</description>
 </snippet>

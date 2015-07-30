@@ -4,5 +4,5 @@ Yii::\$app->request->isGet
 ]]></content>
 	<tabTrigger>Rig</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isGet</description>
+	<description>Yii2 - Yii::$app->request->isGet</description>
 </snippet>

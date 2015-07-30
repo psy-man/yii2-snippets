@@ -4,5 +4,5 @@ Yii::\$app->request->bodyParams
 ]]></content>
 	<tabTrigger>Rbps</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::bodyParams</description>
+	<description>Yii2 - Yii::$app->request->bodyParams</description>
 </snippet>

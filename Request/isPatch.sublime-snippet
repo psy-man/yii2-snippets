@@ -4,5 +4,5 @@ Yii::\$app->request->isPatch
 ]]></content>
 	<tabTrigger>Ripatch</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isPatch</description>
+	<description>Yii2 - Yii::$app->request->isPatch</description>
 </snippet>

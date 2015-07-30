@@ -4,5 +4,5 @@ Yii::\$app->session->get(${1:key}, ${2:defaultValue})
 ]]></content>
 	<tabTrigger>Sget</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::get</description>
+	<description>Yii2 - Yii::$app->session->get</description>
 </snippet>

@@ -4,5 +4,5 @@ Yii::\$app->request->isPut
 ]]></content>
 	<tabTrigger>Riput</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::isPut</description>
+	<description>Yii2 - Yii::$app->request->isPut</description>
 </snippet>

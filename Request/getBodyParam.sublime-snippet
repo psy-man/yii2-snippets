@@ -4,5 +4,5 @@ Yii::\$app->request->getBodyParam(${1:name}, ${2:defaultValue})
 ]]></content>
 	<tabTrigger>Rbp</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Request::getBodyParam</description>
+	<description>Yii2 - Yii::$app->request->getBodyParam</description>
 </snippet>

@@ -4,5 +4,5 @@ Yii::\$app->user->loginRequired(${1:checkAjax})
 ]]></content>
 	<tabTrigger>Ulr</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::loginRequired</description>
+	<description>Yii2 - Yii::$app->user->loginRequired</description>
 </snippet>

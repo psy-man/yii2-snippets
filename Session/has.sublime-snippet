@@ -4,5 +4,5 @@ Yii::\$app->session->has(${1:key})
 ]]></content>
 	<tabTrigger>Shas</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Session::has</description>
+	<description>Yii2 - Yii::$app->session->has</description>
 </snippet>

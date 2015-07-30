@@ -4,5 +4,5 @@ Yii::\$app->user->getReturnUrl(${1:defaultUrl})
 ]]></content>
 	<tabTrigger>Ugru</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - User::getReturnUrl</description>
+	<description>Yii2 - Yii::$app->user->getReturnUrl</description>
 </snippet>
