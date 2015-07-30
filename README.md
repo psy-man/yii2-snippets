@@ -1,6 +1,6 @@
 # Sublime Text Yii2 Snippets
 
-Useful snippets for [Sublime text](https://sublime.wbond.net/installation) for Yii2 development
+Useful [Sublime text](https://sublimetext.com) snippets for Yii2
 
 
 ## Navigation
