@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->controller->action->$1
+]]></content>
+	<tabTrigger>Ya</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::\$app->controller->action</description>
+</snippet>

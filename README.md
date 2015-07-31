@@ -1,6 +1,6 @@
 # Sublime Text Yii2 Snippets
 
-Useful [Sublime text](https://sublimetext.com) snippets for Yii2
+Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 
 
 ## Navigation

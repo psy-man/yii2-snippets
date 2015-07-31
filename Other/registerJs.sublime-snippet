@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$customScript = <<< SCRIPT
+	${1:js}
+SCRIPT;
+\$this->registerJs(\$customScript, \yii\web\View::${2:POS_READY});
+]]></content>
+	<tabTrigger>Yrj</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - $this->registerJs</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$customCss = <<< SCRIPT
+	${1:js}
+SCRIPT;
+\$this->registerCss(\$customCss);
+]]></content>
+	<tabTrigger>Yrc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - $this->registerCss</description>
+</snippet>

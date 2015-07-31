@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->registerCssFile('${1:url}'${2:, ['depends' => [\yii\web\JqueryAsset::className()]]});
+]]></content>
+	<tabTrigger>Yrcf</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - \$this->registerCssFile</description>
+</snippet>
