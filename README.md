@@ -17,6 +17,7 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [Request](#request)
 - [User](#user)
 - [Session](#session)
+- [Other useful snippets](#other-useful-snippets)
 - [Todos](#todos)
 - [License](#license)
 - [PS](#ps)
@@ -293,6 +294,19 @@ There are several methods to install package.
 | offsetExists                     | Soe          |
 | offsetGet                        | Sog          |
 | offsetUnset                      | Sou          |
+
+
+### Other useful snippets
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| user                             | Yu           |
+| controller                       | Yc           |
+| action                           | Ya           |
+| registerJs                       | Yrj          |
+| registerJsFile                   | Yrjf         |
+| registerCss                      | Yrc          |
+| registerCssFile                  | Yrcf         |
 
 
 ### Todos
