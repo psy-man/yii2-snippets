@@ -30,7 +30,7 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 
 There are several methods to install package.
 
-1. Search for Yii2 Snippets on Package Control. <sub><sup>Not yet available</sup></sub>
+1. Search for Yii2 Snippets on Package Control.
 
 2. Clone the repository into your Sublime Text 2/3 packages directory. ```git clone https://github.com/filipyev/yii2-snippets.git ```
 **Note:** You can find your packages directory by going to Preferences -> Browse Packages.
