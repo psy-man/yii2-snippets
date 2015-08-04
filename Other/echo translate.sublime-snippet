@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= Html::encode(Yii::t('${1:category}', '${2:string}')); ?>
+]]></content>
+	<tabTrigger>Yte</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - echo translate</description>
+</snippet>

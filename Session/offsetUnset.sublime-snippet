@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Yii::\$app->session->offsetUnset(${1:offset})
-]]></content>
-	<tabTrigger>Sou</tabTrigger>
-	<scope>source.php</scope>
-	<description>Yii2 - Yii::$app->session->offsetUnset</description>
-</snippet>

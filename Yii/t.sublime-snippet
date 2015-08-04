@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::t(${1:category}, ${2:string})
+Yii::t('${1:category}', '${2:string}')
 ]]></content>
 	<tabTrigger>Yt</tabTrigger>
 	<scope>source.php</scope>

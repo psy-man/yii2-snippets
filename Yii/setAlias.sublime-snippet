@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::setAlias('${1:alias}', ${2:path})
+]]></content>
+	<tabTrigger>Ysa</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::setAlias</description>
+</snippet>

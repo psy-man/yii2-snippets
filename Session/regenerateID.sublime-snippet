@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Yii::\$app->session->regenerateID(${1:deleteOldSession})
 ]]></content>
-	<tabTrigger>Srg</tabTrigger>
+	<tabTrigger>Srgid</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - Yii::$app->session->regenerateID</description>
 </snippet>

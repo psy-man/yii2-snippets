@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<?= ListView::widget([
+	'dataProvider' => ${1:\$dataProvider},
+	'itemView' => '${2:_post}',
+]);?>
+]]></content>
+	<tabTrigger>Lw</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - ListView::widget</description>
+</snippet>

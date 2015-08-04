@@ -18,6 +18,9 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [User](#user)
 - [Session](#session)
 - [Other useful snippets](#other-useful-snippets)
+- [Displaying Data](#displaying-data)
+- [Base Yii](#base-yii)
+- [Register](#register)
 - [Todos](#todos)
 - [License](#license)
 - [PS](#ps)
@@ -27,7 +30,7 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 
 There are several methods to install package.
 
-1. Search for Yii2 Snippets on Package Control
+1. Search for Yii2 Snippets on Package Control. <sub><sup>Not yet available</sup></sub>
 
 2. Clone the repository into your Sublime Text 2/3 packages directory. ```git clone https://github.com/filipyev/yii2-snippets.git ```
 **Note:** You can find your packages directory by going to Preferences -> Browse Packages.
@@ -39,6 +42,8 @@ There are several methods to install package.
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
 | t                                | Yt           |
+| setAlias                         | Ysa          |
+| getAlias                         | Yga          |
 
 
 ### Html
@@ -257,7 +262,7 @@ There are several methods to install package.
 | setHasSessionId                  | Sshsi        |
 | id                               | Sid          |
 | setId                            | Ssid         |
-| regenerateID                     | Srg          |
+| regenerateID                     | Srgid        |
 | name                             | Sname        |
 | setName                          | Ssname       |
 | savePath                         | Ssp          |
@@ -266,19 +271,11 @@ There are several methods to install package.
 | setCookieParams                  | Sscp         |
 | useCookies                       | Suc          |
 | setUseCookies                    | Ssuc         |
-| gCProbability                    | SGCP         |
-| setGCProbability                 | SsGCP        |
-| useTransparentSessionID          | Sutsi        |
-| setUseTransparentSessionID       | Ssutsi       |
-| timeout                          | Sto          |
-| setTimeout                       | Ssto         |
-| offsetSet                        | Sos          |
+| openSession                      | Sos          |
 | closeSession                     | Scs          |
 | readSession                      | Sread        |
 | writeSession                     | Swrite       |
 | destroySession                   | Sdestroy     |
-| gcSession                        | Sgcs         |
-| iterator                         | Siter        |
 | count                            | Scount       |
 | get                              | Sget         |
 | set                              | Sset         |
@@ -291,18 +288,30 @@ There are several methods to install package.
 | removeFlash                      | Srfl         |
 | removeAllFlashes                 | Srafl        |
 | hasFlash                         | Shfl         |
-| offsetExists                     | Soe          |
-| offsetGet                        | Sog          |
-| offsetUnset                      | Sou          |
 
 
-### Other useful snippets
+### Displaying Data
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| ListView                         | Lw           |
+| GridView                         | Gw           |
+| echo translate                   | Yte          |
+
+
+### Base Yii
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
 | user                             | Yu           |
 | controller                       | Yc           |
 | action                           | Ya           |
+
+
+### Register
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
 | registerJs                       | Yrj          |
 | registerJsFile                   | Yrjf         |
 | registerCss                      | Yrc          |
@@ -312,12 +321,14 @@ There are several methods to install package.
 ### Todos
 
  - Improve shortcuts
- - Add ListView, GridView and ect...
+ - ~~Add ListView, GridView and ect...~~
  - Add find model with params
  - Add DataProvider
  - Add "render" snippets
  - Add default behaviors (AccessControl, TimestampBehavior and ect...)
  - Add validation rules
+ - Add cache
+ - Add use statements
  - Add other useful snippets
 
 

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Yii::\$app->session->useTransparentSessionID
-]]></content>
-	<tabTrigger>Sutsi</tabTrigger>
-	<scope>source.php</scope>
-	<description>Yii2 - Yii::$app->session->useTransparentSessionID</description>
-</snippet>

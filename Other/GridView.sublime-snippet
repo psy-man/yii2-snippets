@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<?= GridView::widget([
+    'dataProvider' => ${1:\$dataProvider},
+    'filterModel' => ${2:\$searchModel},
+    'columns' => [
+    	['class' => 'yii\grid\SerialColumn'],
+    	${3:[
+            'attribute' => 'title',
+            'filter'    => ArrayHelper::map(\$array, 'id', 'title'),
+            'format'    => 'raw',
+            'value'     => function (\$model, \$key, \$index, \$column) \{
+                return \$model->value;
+            \}
+        ],}
+    ]
+]);?>
+]]></content>
+	<tabTrigger>Gw</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - GridView::widget</description>
+</snippet>
