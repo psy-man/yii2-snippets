@@ -7,5 +7,5 @@ SCRIPT;
 ]]></content>
 	<tabTrigger>Yrc</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - $this->registerCss</description>
+	<description>Yii2 - registerCss</description>
 </snippet>

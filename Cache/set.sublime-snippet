@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->cache->set(${1:key}, ${2:value}, ${3:duration}, ${4:dependency})
+]]></content>
+	<tabTrigger>Cs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::$app->cache->set</description>
+</snippet>

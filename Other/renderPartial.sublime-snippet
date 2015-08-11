@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+return \$this->renderPartial('${1:filename}', [
+    'model' => ${2:\$model},
+    $3
+]);
+]]></content>
+	<tabTrigger>RDp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - renderPartial</description>
+</snippet>

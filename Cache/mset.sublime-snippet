@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->cache->mset(${1:items}, ${2:duration}, ${3:dependency})
+]]></content>
+	<tabTrigger>Cms</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::$app->cache->mset</description>
+</snippet>

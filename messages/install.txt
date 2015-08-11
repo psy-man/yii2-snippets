@@ -1,0 +1,9 @@
+============================================================
+Thank you for installing Yii2 Snippets
+============================================================
+
+This package contains many useful snippets
+that will greatly improve your workflow
+
+Documentation can be found here:
+https://github.com/filipyev/yii2-snippets

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$this->registerMetaTag([
+    'name' => '${1:name}',
+    'content' => '${2:content}'
+]);
+]]></content>
+	<tabTrigger>Yrmt</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - registerMetaTag</description>
+</snippet>

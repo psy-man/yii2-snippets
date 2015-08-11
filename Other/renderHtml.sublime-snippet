@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= \$this->render('${1:filename}', ['model' => ${2:\$model}, $3]); ?>
+]]></content>
+	<tabTrigger>RDh</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - HTML render</description>
+</snippet>

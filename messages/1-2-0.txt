@@ -1,0 +1,13 @@
+============================================================
+Yii2 Snippets - Has been updated
+============================================================
+
+New Features
+------------------------------------------------------------
+ - Added registerMetaTag
+ - Added Cache snippets
+ - Added render snippets
+------------------------------------------------------------
+
+Documentation can be found here:
+https://github.com/filipyev/yii2-snippets

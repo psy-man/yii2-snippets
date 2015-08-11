@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->cache->flush()
+]]></content>
+	<tabTrigger>Cf</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::$app->cache->flush</description>
+</snippet>

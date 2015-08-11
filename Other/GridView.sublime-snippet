@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 <?= GridView::widget([
-    'dataProvider' => ${1:\$dataProvider},
-    'filterModel' => ${2:\$searchModel},
-    'columns' => [
-    	['class' => 'yii\grid\SerialColumn'],
-    	${3:[
+	'dataProvider' => ${1:\$dataProvider},
+	'filterModel' => ${2:\$searchModel},
+	'columns' => [
+		['class' => 'yii\grid\SerialColumn'],
+		${3:[
             'attribute' => 'title',
             'filter'    => ArrayHelper::map(\$array, 'id', 'title'),
             'format'    => 'raw',
@@ -13,7 +13,7 @@
                 return \$model->value;
             \}
         ],}
-    ]
+	]
 ]);?>
 ]]></content>
 	<tabTrigger>Gw</tabTrigger>

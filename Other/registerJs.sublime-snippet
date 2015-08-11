@@ -7,5 +7,5 @@ SCRIPT;
 ]]></content>
 	<tabTrigger>Yrj</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - $this->registerJs</description>
+	<description>Yii2 - registerJs</description>
 </snippet>

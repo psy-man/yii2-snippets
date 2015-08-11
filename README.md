@@ -17,10 +17,11 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [Request](#request)
 - [User](#user)
 - [Session](#session)
-- [Other useful snippets](#other-useful-snippets)
+- [Cache](#cache)
 - [Displaying Data](#displaying-data)
 - [Base Yii](#base-yii)
 - [Register](#register)
+- [Render](#render)
 - [Todos](#todos)
 - [License](#license)
 - [PS](#ps)
@@ -290,6 +291,26 @@ There are several methods to install package.
 | hasFlash                         | Shfl         |
 
 
+### Cache
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| buildKey                         | Cbk          |
+| get                              | Cg           |
+| exists                           | Ce           |
+| mget                             | Cmg          |
+| set                              | Cs           |
+| mset                             | Cms          |
+| madd                             | Cma          |
+| add                              | Ca           |
+| delete                           | Cd           |
+| flush                            | Cf           |
+| offsetExists                     | Coe          |
+| offsetGet                        | Cog          |
+| offsetSet                        | Cos          |
+| offsetUnset                      | Cou          |
+
+
 ### Displaying Data
 
 | Method                           | Snippet code |
@@ -316,20 +337,30 @@ There are several methods to install package.
 | registerJsFile                   | Yrjf         |
 | registerCss                      | Yrc          |
 | registerCssFile                  | Yrcf         |
+| registerMetaTag                  | Yrmt         |
 
+
+### Render
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| render                           | RD           |
+| renderHtml                       | RDh          |
+| renderPartial                    | RDp          |
+| renderAjax                       | RDa          |
 
 ### Todos
 
- - Improve shortcuts
  - ~~Add ListView, GridView and ect...~~
+ - ~~Add cache~~
+ - ~~Add "render" snippets~~
  - Add find model with params
  - Add DataProvider
- - Add "render" snippets
  - Add default behaviors (AccessControl, TimestampBehavior and ect...)
  - Add validation rules
- - Add cache
  - Add use statements
  - Add other useful snippets
+ - Improve shortcuts
 
 
 ### License
