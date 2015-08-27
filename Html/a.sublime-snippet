@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::a(${1:text}, ${2:url}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::a(${1:\$text}${2:, ${3:\$url = null}}${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>Ha</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::a</description>
+	<description>Yii2 - Html::a()</description>
 </snippet>

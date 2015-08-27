@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->add(${1:key}, ${2:value}, ${3:duration}, ${4:dependency})
+Yii::\$app->cache->add(${1:\$key}, ${2:\$value}${3:, ${4:\$duration = 0}}${5:, ${6:\$dependency = null}})
 ]]></content>
 	<tabTrigger>Ca</tabTrigger>
 	<scope>source.php</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->offsetGet(${1:key})
+Yii::\$app->cache->offsetGet(${1:\$key})
 ]]></content>
 	<tabTrigger>Cog</tabTrigger>
 	<scope>source.php</scope>

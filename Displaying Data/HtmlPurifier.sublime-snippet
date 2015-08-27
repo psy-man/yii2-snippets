@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= HtmlPurifier::process(${1:html}); ?>
+<?= HtmlPurifier::process($html); ?>
 ]]></content>
 	<tabTrigger>HPp</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - HtmlPurifier::process</description>
+	<description>Yii2 - HtmlPurifier::process()</description>
 </snippet>

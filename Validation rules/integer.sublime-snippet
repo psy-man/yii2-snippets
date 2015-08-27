@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'integer'],
+]]></content>
+	<tabTrigger>Vi</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation integer</description>
+</snippet>

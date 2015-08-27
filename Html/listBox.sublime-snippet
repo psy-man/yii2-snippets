@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::listBox(${1:name}, ${2:selection}, ${3:items}, ${4:['${5:option}' => ${6:value}]}); ?>
+<?= Html::listBox('${1:name}'${2:, ${3:\$selection = null}}${4:, ${5:\$items = []}}${6:, ['${7:option}' => '${8:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hlb</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::listBox</description>
+	<description>Yii2 - Html::listBox()</description>
 </snippet>

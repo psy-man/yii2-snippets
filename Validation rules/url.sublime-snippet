@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'url'],
+]]></content>
+	<tabTrigger>Vu</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation url</description>
+</snippet>

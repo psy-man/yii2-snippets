@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<?= LinkPager::widget([
+	'pagination' => ${1:\$dataProvider->pagination},
+]); ?>
+]]></content>
+	<tabTrigger>Lp</tabTrigger>
+	<scope>text.html</scope>
+	<description>Yii2 - LinkPager::widget</description>
+</snippet>

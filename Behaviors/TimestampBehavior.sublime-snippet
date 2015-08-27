@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+[
+    'class' => TimestampBehavior::className(),
+    'createdAtAttribute' => '${1:created_at}',
+    'updatedAtAttribute' => '${2:updated_at}',
+],
+]]></content>
+	<tabTrigger>Beht</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - TimestampBehaviorr</description>
+</snippet>

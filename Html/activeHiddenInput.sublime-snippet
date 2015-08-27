@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::activeHiddenInput(${1:model}, ${2:attribute}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::activeHiddenInput(${1:\$model}, '${2:attribute}'${3:, ['${4:option}' => '${5:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hahi</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::activeHiddenInput</description>
+	<description>Yii2 - Html::activeHiddenInput()</description>
 </snippet>

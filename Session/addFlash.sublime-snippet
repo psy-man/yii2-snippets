@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->addFlash(${1:key}, ${2:value}, ${3:removeAfterAccess})
+Yii::\$app->session->addFlash(${1:\$key}${2:, ${3:\$value = true}}${4:, ${5:\$removeAfterAccess = true}})
 ]]></content>
 	<tabTrigger>Safl</tabTrigger>
 	<scope>source.php</scope>

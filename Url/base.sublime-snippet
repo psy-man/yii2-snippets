@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Url::base(${1:scheme})
+Url::base(${1:\$scheme = false})
 ]]></content>
 	<tabTrigger>Ub</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Url::base</description>
+	<description>Yii2 - Url::base()</description>
 </snippet>

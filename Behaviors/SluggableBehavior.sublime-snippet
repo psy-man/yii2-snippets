@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+[
+    'class' => SluggableBehavior::className(),
+    'attribute' => '${1:title}',
+    'slugAttribute' => '${2:url}',
+],
+]]></content>
+	<tabTrigger>Behs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - SluggableBehaviorr</description>
+</snippet>

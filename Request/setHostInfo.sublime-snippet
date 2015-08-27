@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->setHostInfo(${1:value})
+Yii::\$app->request->setHostInfo(${1:\$value})
 ]]></content>
 	<tabTrigger>Rshi</tabTrigger>
 	<scope>source.php</scope>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::fileInput(${1:name}, ${2:value}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::fileInput('${1:name}'${2:, ${3:\$value = null}}${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hfi</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::fileInput</description>
+	<description>Yii2 - Html::fileInput()</description>
 </snippet>

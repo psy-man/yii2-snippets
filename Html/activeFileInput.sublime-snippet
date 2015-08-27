@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::activeFileInput(${1:model}, ${2:attribute}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::activeFileInput(${1:\$model}, '${2:attribute}'${3:, ['${4:option}' => '${5:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hafi</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::activeFileInput</description>
+	<description>Yii2 - Html::activeFileInput()</description>
 </snippet>

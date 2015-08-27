@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->offsetUnset(${1:key})
+Yii::\$app->cache->offsetUnset(${1:\$key})
 ]]></content>
 	<tabTrigger>Cou</tabTrigger>
 	<scope>source.php</scope>

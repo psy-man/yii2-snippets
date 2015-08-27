@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->loginByAccessToken(${1:token}, ${2:type})
+Yii::\$app->user->loginByAccessToken(${1:\$token}${2:, ${3:\$type = null}})
 ]]></content>
 	<tabTrigger>Ulbat</tabTrigger>
 	<scope>source.php</scope>

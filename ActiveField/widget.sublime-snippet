@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<?= \$form->field(${1:\$model}, '${2:attribute}')->widget(${3:class}, ${4:config}); ?>
+<?= \$form->field(${1:\$model}, '${2:attribute}')->widget(${3:\$class}${4:, ${5:\$config = []}}); ?>
 ]]></content>
 	<tabTrigger>AFw</tabTrigger>
 	<scope>text.html</scope>

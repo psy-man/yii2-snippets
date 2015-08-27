@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->openSession(${1:savePath}, ${2:sessionName})
+Yii::\$app->session->openSession(${1:\$savePath}, ${2:\$sessionName})
 ]]></content>
 	<tabTrigger>Sos</tabTrigger>
 	<scope>source.php</scope>

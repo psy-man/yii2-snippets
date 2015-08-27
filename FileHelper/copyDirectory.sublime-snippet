@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-FileHelper::copyDirectory(${1:src}, ${2:dst}, ${3:['${4:option}' => ${5:value}]});
+FileHelper::copyDirectory(${1:\$src}, ${2:\$dst}${3:, ['${4:option}' => '${5:value}']})
 ]]></content>
 	<tabTrigger>FHcpd</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - FileHelper::copyDirectory</description>
+	<description>Yii2 - FileHelper::copyDirectory()</description>
 </snippet>

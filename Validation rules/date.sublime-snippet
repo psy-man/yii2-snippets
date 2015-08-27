@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'date'$3{:, 'format' => 'php:${4:format}'}],
+]]></content>
+	<tabTrigger>Vdt</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation date</description>
+</snippet>

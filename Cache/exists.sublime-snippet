@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->exists(${1:key})
+Yii::\$app->cache->exists(${1:\$key})
 ]]></content>
 	<tabTrigger>Ce</tabTrigger>
 	<scope>source.php</scope>

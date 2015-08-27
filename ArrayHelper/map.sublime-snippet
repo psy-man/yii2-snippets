@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ArrayHelper::map(${1:array}, ${2:from}, ${3:to}, ${4:group});
+ArrayHelper::map(${1:\$array}, '${2:from}', '${3:to}', '${4:group}')
 ]]></content>
 	<tabTrigger>AHmap</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - ArrayHelper::map</description>
+	<description>Yii2 - ArrayHelper::map()</description>
 </snippet>

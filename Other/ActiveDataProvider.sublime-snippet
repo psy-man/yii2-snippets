@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+\$dataProvider = new ActiveDataProvider([
+    'query' => ${1:\$query},
+    'pagination' => [
+        'pageSize' => ${2:10},
+    ],${3:
+    'sort' => [
+        'defaultOrder' => [
+            '${4:created_at}' => SORT_${5:DESC}
+        ]
+    ],
+}]);
+]]></content>
+	<tabTrigger>Adp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - ActiveDataProvider</description>
+</snippet>

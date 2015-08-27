@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->getReturnUrl(${1:defaultUrl})
+Yii::\$app->user->getReturnUrl(${1:\$defaultUrl = null})
 ]]></content>
 	<tabTrigger>Ugru</tabTrigger>
 	<scope>source.php</scope>

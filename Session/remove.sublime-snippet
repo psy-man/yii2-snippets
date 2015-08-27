@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->remove(${1:key})
+Yii::\$app->session->remove(${1:\$key})
 ]]></content>
 	<tabTrigger>Sremove</tabTrigger>
 	<scope>source.php</scope>

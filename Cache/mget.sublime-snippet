@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->mget(${1:keys})
+Yii::\$app->cache->mget(${1:\$keys})
 ]]></content>
 	<tabTrigger>Cmg</tabTrigger>
 	<scope>source.php</scope>

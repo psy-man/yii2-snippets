@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->getFlash(${1:key}, ${2:defaultValue}, ${3:delete})
+Yii::\$app->session->getFlash(${1:\$key}${2:, ${3:\$defaultValue = null}}${4:, ${5:\$delete = false}})
 ]]></content>
 	<tabTrigger>Sfl</tabTrigger>
 	<scope>source.php</scope>

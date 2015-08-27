@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<?= \$form->field(${1:\$model}, '${2:attribute}')->listBox(${3:items}, ${4:['${5:option}' => ${6:value}]}); ?>
+<?= \$form->field(${1:\$model}, '${2:attribute}')->listBox(${3:\$items}${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>AFlb</tabTrigger>
 	<scope>text.html</scope>

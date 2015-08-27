@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::find()->where([${2:condition}])$3->all();
+]]></content>
+	<tabTrigger>Ma</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model find all</description>
+</snippet>

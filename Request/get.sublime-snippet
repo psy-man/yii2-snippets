@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->get(${1:name}, ${2:defaultValue})
+Yii::\$app->request->get(${1:\$name = null}${2:, ${3:\$defaultValue = null}})
 ]]></content>
 	<tabTrigger>Rg</tabTrigger>
 	<scope>source.php</scope>

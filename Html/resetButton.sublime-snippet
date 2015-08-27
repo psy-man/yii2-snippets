@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::resetButton(${1:content}, ${2:['${3:option}' => ${4:value}]}); ?>
+<?= Html::resetButton(${1:\$content}${2:, ['${3:option}' => '${4:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hrb</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::resetButton</description>
+	<description>Yii2 - Html::resetButton()</description>
 </snippet>

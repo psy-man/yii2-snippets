@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->validateCsrfToken(${1:token})
+Yii::\$app->request->validateCsrfToken(${1:\$token = null})
 ]]></content>
 	<tabTrigger>Rcsrfv</tabTrigger>
 	<scope>source.php</scope>

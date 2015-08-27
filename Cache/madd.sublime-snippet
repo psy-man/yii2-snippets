@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->madd(${1:items}, ${2:duration}, ${3:dependency})
+Yii::\$app->cache->madd(${1:\$items}${2:, ${3:\$duration = 0}}${4:, ${5:\$dependency = null}})
 ]]></content>
 	<tabTrigger>Cma</tabTrigger>
 	<scope>source.php</scope>

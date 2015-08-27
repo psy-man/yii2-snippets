@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'unique'],
+]]></content>
+	<tabTrigger>Vuni</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation unique</description>
+</snippet>

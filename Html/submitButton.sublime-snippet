@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::submitButton(${1:content}, ${2:['${3:option}' => ${4:value}]}); ?>
+<?= Html::submitButton(${1:\$content}${2:, ['${3:option}' => '${4:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hsb</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::submitButton</description>
+	<description>Yii2 - Html::submitButton()</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::find()->where([${2:condition}])$3->max();
+]]></content>
+	<tabTrigger>Mmax</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model find max</description>
+</snippet>

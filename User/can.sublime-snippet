@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->can('${1:permissionName}', ${2:params}, ${3:allowCaching})
+Yii::\$app->user->can('${1:permissionName}'${2:, ${3:\$params = []}}${4:, ${5:\$allowCaching = true}})
 ]]></content>
 	<tabTrigger>Ucan</tabTrigger>
 	<scope>source.php</scope>

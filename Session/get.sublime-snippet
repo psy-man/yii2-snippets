@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->get(${1:key}, ${2:defaultValue})
+Yii::\$app->session->get(${1:\$key}${2:, ${3:\$defaultValue = null}})
 ]]></content>
 	<tabTrigger>Sget</tabTrigger>
 	<scope>source.php</scope>

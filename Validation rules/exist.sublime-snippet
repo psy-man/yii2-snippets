@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'exist', 'targetClass' => ${3:Class}::className(), 'targetAttribute' => '${4:id}'],
+]]></content>
+	<tabTrigger>Vex</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation exist</description>
+</snippet>

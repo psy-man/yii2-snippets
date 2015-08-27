@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->offsetExists(${1:key})
+Yii::\$app->cache->offsetExists(${1:\$key})
 ]]></content>
 	<tabTrigger>Coe</tabTrigger>
 	<scope>source.php</scope>

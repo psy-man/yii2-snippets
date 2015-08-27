@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$transaction = Yii::\$app->db->beginTransaction();
+try {
+    ${1:...DB operations...}
+    \$transaction->commit();
+} catch(\Exception \$e) {
+    \$transaction->rollBack();
+    throw \$e;
+}
+]]></content>
+	<tabTrigger>Tra</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - transaction</description>
+</snippet>

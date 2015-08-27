@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->buildKey(${1:key})
+Yii::\$app->cache->buildKey(${1:\$key})
 ]]></content>
 	<tabTrigger>Cbk</tabTrigger>
 	<scope>source.php</scope>

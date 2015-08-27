@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->destroySession(${1:id})
+Yii::\$app->session->destroySession(${1:\$id})
 ]]></content>
 	<tabTrigger>Sdestroy</tabTrigger>
 	<scope>source.php</scope>

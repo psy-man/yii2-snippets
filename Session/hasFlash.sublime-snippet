@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->hasFlash(${1:key})
+Yii::\$app->session->hasFlash(${1:\$key})
 ]]></content>
 	<tabTrigger>Shfl</tabTrigger>
 	<scope>source.php</scope>

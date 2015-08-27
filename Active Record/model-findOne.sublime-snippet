@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::findOne(${2:id or condition});
+]]></content>
+	<tabTrigger>Mfo</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model findOne</description>
+</snippet>

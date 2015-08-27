@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::activeRadioList(${1:model}, ${2:attribute}, ${3:items}, ${4:['${5:option}' => ${6:value}]}); ?>
+<?= Html::activeRadioList(${1:\$model}, '${2:attribute}', ${3:\$items}${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hardl</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::activeRadioList</description>
+	<description>Yii2 - Html::activeRadioList()</description>
 </snippet>

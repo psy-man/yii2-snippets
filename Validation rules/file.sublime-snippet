@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'file', 'extensions' => ['png', 'jpg', 'gif'], 'maxSize' => 5*1024*1024],
+]]></content>
+	<tabTrigger>Vf</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation file</description>
+</snippet>

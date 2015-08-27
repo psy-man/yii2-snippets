@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::activeInput(${1:type}, ${2:model}, ${3:attribute}, ${4:['${5:option}' => ${6:value}]}); ?>
+<?= Html::activeInput(${1:\$type}, ${2:\$model}, '${3:attribute}'${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hai</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::activeInput</description>
+	<description>Yii2 - Html::activeInput()</description>
 </snippet>

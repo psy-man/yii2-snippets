@@ -1,0 +1,21 @@
+============================================================
+Yii2 Snippets - Has been updated
+============================================================
+
+New Features
+------------------------------------------------------------
+ - Added Active Records
+ - Added Validation rules
+ - Added ActiveDataProvider
+ - Added Model Behaviors
+ - Added LinkPager
+------------------------------------------------------------
+
+Improvements
+------------------------------------------------------------
+ - new structure of snippets
+ - shown a default value of non-required arguments
+------------------------------------------------------------
+
+Documentation can be found here:
+https://github.com/filipyev/yii2-snippets

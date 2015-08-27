@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'string'],
+]]></content>
+	<tabTrigger>Vs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation string</description>
+</snippet>

@@ -8,7 +8,6 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [Yii](#yii)
 - [Html](#html)
 - [ActiveField](#activefield)
-- [HtmlPurifier](#htmlpurifier)
 - [ArrayHelper](#arrayhelper)
 - [FileHelper](#filehelper)
 - [Url](#url)
@@ -18,10 +17,14 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [User](#user)
 - [Session](#session)
 - [Cache](#cache)
+- [Active Record ](#active-record)
 - [Displaying Data](#displaying-data)
 - [Base Yii](#base-yii)
 - [Register](#register)
 - [Render](#render)
+- [Behaviors](#behaviors)
+- [Validation rules](#validation-rules)
+- [Other](#other)
 - [Todos](#todos)
 - [License](#license)
 - [PS](#ps)
@@ -38,7 +41,7 @@ There are several methods to install package.
 
 
 
-### Yii
+### Yii 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -47,7 +50,7 @@ There are several methods to install package.
 | getAlias                         | Yga          |
 
 
-### Html
+### Html 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -91,7 +94,7 @@ There are several methods to install package.
 | activeRadioList                  | Hardl        |
 
 
-### ActiveField
+### ActiveField 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -109,14 +112,7 @@ There are several methods to install package.
 | widget                           | AFw          |
 
 
-### HtmlPurifier
-
-| Method                           | Snippet code |
-|--------------------------------- | :----------: |
-| process                          | HPp          |
-
-
-### ArrayHelper
+### ArrayHelper 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -132,7 +128,7 @@ There are several methods to install package.
 | htmlEncode                       | AHe          |
 
 
-### FileHelper
+### FileHelper 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -148,7 +144,7 @@ There are several methods to install package.
 | createDirectory                  | FHcd         |
 
 
-### Url
+### Url 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -162,7 +158,7 @@ There are several methods to install package.
 | isRelative                       | Uir          |
 
 
-### Json
+### Json 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -171,7 +167,7 @@ There are several methods to install package.
 | decode                           | Jd           |
 
 
-### StringHelper
+### StringHelper 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -186,7 +182,7 @@ There are several methods to install package.
 | explode                          | SHexp        |
 
 
-### Request
+### Request 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -234,7 +230,7 @@ There are several methods to install package.
 | validateCsrfToken                | Rcsrfv       |
 
 
-### User
+### User 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -251,7 +247,7 @@ There are several methods to install package.
 | can                              | Ucan         |
 
 
-### Session
+### Session 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -291,7 +287,7 @@ There are several methods to install package.
 | hasFlash                         | Shfl         |
 
 
-### Cache
+### Cache 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -311,16 +307,37 @@ There are several methods to install package.
 | offsetUnset                      | Cou          |
 
 
-### Displaying Data
+### Active Record 
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| find                             | Mf           |
+| find-all                         | Ma           |
+| find-one                         | Mo           |
+| find-count                       | Mc           |
+| find-exists                      | Me           |
+| find-max                         | Mmax         |
+| find-min                         | Mmin         |
+| model-findOne                    | Mfo          |
+| model-findAll                    | Mfa          |
+| model-findBySql                  | Mbs          |
+| model-updateAll                  | Mua          |
+| model-updateAllCounters          | Muac         |
+| model-deleteAll                  | Mda          |
+
+
+### Displaying Data 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
 | ListView                         | Lw           |
 | GridView                         | Gw           |
+| LinkPager                        | Lp           |
 | echo translate                   | Yte          |
+| HtmlPurifier                     | HPp          |
 
 
-### Base Yii
+### Base Yii 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -329,7 +346,7 @@ There are several methods to install package.
 | action                           | Ya           |
 
 
-### Register
+### Register 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -340,7 +357,7 @@ There are several methods to install package.
 | registerMetaTag                  | Yrmt         |
 
 
-### Render
+### Render 
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -349,15 +366,60 @@ There are several methods to install package.
 | renderPartial                    | RDp          |
 | renderAjax                       | RDa          |
 
+
+### Behaviors 
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| behaviors                        | Beh          |
+| TimestampBehavior                | Beht         |
+| SluggableBehavior                | Behs         |
+| BlameableBehavior                | Behb         |
+
+
+### Validation rules 
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| required                         | Vr           |
+| email                            | Ve           |
+| trim                             | Vt           |
+| default                          | Vd           |
+| boolean                          | Vb           |
+| captcha                          | Vcapt        |
+| compare                          | Vcomp        |
+| date                             | Vdt          |
+| double                           | Vdb          |
+| each                             | Veach        |
+| exist                            | Vex          |
+| file                             | Vf           |
+| in                               | Vin          |
+| integer                          | Vi           |
+| number                           | Vn           |
+| match                            | Vc           |
+| safe                             | Vsf          |
+| string                           | Vs           |
+| unique                           | Vuni         |
+| url                              | Vu           |
+
+
+### Other 
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| ActiveDataProvider               | Adp          |
+| transaction                      | Tra          |
+
+
 ### Todos
 
  - ~~Add ListView, GridView and ect...~~
  - ~~Add cache~~
  - ~~Add "render" snippets~~
- - Add find model with params
- - Add DataProvider
- - Add default behaviors (AccessControl, TimestampBehavior and ect...)
- - Add validation rules
+ - ~~Add find model with params~~
+ - ~~Add DataProvider~~
+ - ~~Add default behaviors (TimestampBehavior and ect...)~~
+ - ~~Add validation rules~~
  - Add use statements
  - Add other useful snippets
  - Improve shortcuts

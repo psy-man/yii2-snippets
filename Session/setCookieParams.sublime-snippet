@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->setCookieParams(${1:array value})
+Yii::\$app->session->setCookieParams(${1:array \$value})
 ]]></content>
 	<tabTrigger>Sscp</tabTrigger>
 	<scope>source.php</scope>

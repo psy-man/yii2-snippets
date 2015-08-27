@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-StringHelper::truncateWords(${1:string}, ${2:count}, ${3:suffix}, ${4:asHtml})
+StringHelper::truncateWords(${1:\$string}, ${2:\$count}${3:, ${4:\$suffix = '...'}}${5:, ${6:\$asHtml = false}})
 ]]></content>
 	<tabTrigger>SHtrw</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - StringHelper::truncateWords</description>
+	<description>Yii2 - StringHelper::truncateWords()</description>
 </snippet>

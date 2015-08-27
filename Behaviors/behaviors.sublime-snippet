@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+public function behaviors()
+{
+    return [
+        [
+            'class' => TimestampBehavior::className(),
+            'createdAtAttribute' => 'created_at',
+            'updatedAtAttribute' => 'updated_at',
+        ],
+        [
+            'class' => SluggableBehavior::className(),
+            'attribute' => 'title',
+            'slugAttribute' => 'url',
+        ],
+        [
+            'class' => BlameableBehavior::className(),
+            'createdByAttribute' => 'author_id',
+            'updatedByAttribute' => 'updater_id',
+        ],
+    ];
+}
+]]></content>
+	<tabTrigger>Beh</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Default Behaviors</description>
+</snippet>

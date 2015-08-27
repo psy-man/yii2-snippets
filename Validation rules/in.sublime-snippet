@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'in', 'range' => ${3:array}],
+]]></content>
+	<tabTrigger>Vin</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation in</description>
+</snippet>

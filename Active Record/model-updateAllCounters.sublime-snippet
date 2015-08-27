@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::updateAllCounters(${2:[attributes]});
+]]></content>
+	<tabTrigger>Muac</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model updateAllCounters</description>
+</snippet>

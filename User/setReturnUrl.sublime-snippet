@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->setReturnUrl(${1:url})
+Yii::\$app->user->setReturnUrl(${1:\$url})
 ]]></content>
 	<tabTrigger>Usru</tabTrigger>
 	<scope>source.php</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->mset(${1:items}, ${2:duration}, ${3:dependency})
+Yii::\$app->cache->mset(${1:\$items}${2:, ${3:\$duration = 0}}${4:, ${5:\$dependency = null}})
 ]]></content>
 	<tabTrigger>Cms</tabTrigger>
 	<scope>source.php</scope>

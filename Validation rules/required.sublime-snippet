@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'required'],
+]]></content>
+	<tabTrigger>Vr</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation required</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->setQueryParams(${1:values})
+Yii::\$app->request->setQueryParams(${1:\$values})
 ]]></content>
 	<tabTrigger>Rsqps</tabTrigger>
 	<scope>source.php</scope>

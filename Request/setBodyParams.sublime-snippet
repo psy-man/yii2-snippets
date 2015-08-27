@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->setBodyParams(${1:values})
+Yii::\$app->request->setBodyParams(${1:\$values})
 ]]></content>
 	<tabTrigger>Rsbps</tabTrigger>
 	<scope>source.php</scope>

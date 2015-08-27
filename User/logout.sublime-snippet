@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->logout(${1:destroySession})
+Yii::\$app->user->logout(${1:\$destroySession = true})
 ]]></content>
 	<tabTrigger>Ulogout</tabTrigger>
 	<scope>source.php</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->regenerateID(${1:deleteOldSession})
+Yii::\$app->session->regenerateID(${1:\$deleteOldSession = false})
 ]]></content>
 	<tabTrigger>Srgid</tabTrigger>
 	<scope>source.php</scope>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Json::decode(${1:json}, ${2:asArray})
+Json::decode(${1:\$json}${2:, ${3:\$asArray = true}})
 ]]></content>
 	<tabTrigger>Jd</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Json::decode</description>
+	<description>Yii2 - Json::decode()</description>
 </snippet>

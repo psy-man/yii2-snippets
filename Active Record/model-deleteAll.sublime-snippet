@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::deleteAll(${2:[condition]});
+]]></content>
+	<tabTrigger>Mda</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model deleteAll</description>
+</snippet>

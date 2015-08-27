@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->request->setRawBody(${1:rawBody})
+Yii::\$app->request->setRawBody(${1:\$rawBody})
 ]]></content>
 	<tabTrigger>Rsrb</tabTrigger>
 	<scope>source.php</scope>

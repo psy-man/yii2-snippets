@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->user->loginRequired(${1:checkAjax})
+Yii::\$app->user->loginRequired(${1:\$checkAjax = true})
 ]]></content>
 	<tabTrigger>Ulr</tabTrigger>
 	<scope>source.php</scope>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Json::encode(${1:value})
+Json::encode(${1:\$value})
 ]]></content>
 	<tabTrigger>Je</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Json::encode</description>
+	<description>Yii2 - Json::encode()</description>
 </snippet>

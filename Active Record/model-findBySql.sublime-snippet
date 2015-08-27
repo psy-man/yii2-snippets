@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::findBySql('${2:sql}'${3:, [${4:params}]});
+]]></content>
+	<tabTrigger>Mbs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Model findBySql</description>
+</snippet>

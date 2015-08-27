@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Url::previous(${1:name})
+Url::previous(${1:\$name = null})
 ]]></content>
 	<tabTrigger>Up</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Url::previous</description>
+	<description>Yii2 - Url::previous()</description>
 </snippet>

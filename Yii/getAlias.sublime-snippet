@@ -4,5 +4,5 @@ Yii::getAlias('${1:alias}')
 ]]></content>
 	<tabTrigger>Yga</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Yii::getAlias</description>
+	<description>Yii2 - Yii::getAlias()</description>
 </snippet>

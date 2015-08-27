@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'each', 'rule' => ${3:rule}],
+]]></content>
+	<tabTrigger>Veach</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation each</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[['${1:attribute}'$2], 'double'],
+]]></content>
+	<tabTrigger>Vdb</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Validation double</description>
+</snippet>

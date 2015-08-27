@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::textInput(${1:name}, ${2:value}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::textInput('${1:name}'${2:, ${3:\$value = null}}${4:, ['${5:option}' => '${6:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hti</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::textInput</description>
+	<description>Yii2 - Html::textInput()</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Url::current(${1:array params}, ${2:scheme})
+Url::current(${1:\$params = []}${2:, ${3:\$scheme = false}})
 ]]></content>
 	<tabTrigger>Uc</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Url::current</description>
+	<description>Yii2 - Url::current()</description>
 </snippet>

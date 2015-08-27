@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::resetInput(${1:label}, ${2:['${3:option}' => ${4:value}]}); ?>
+<?= Html::resetInput(${1:\$label}${2:, ['${3:option}' => '${4:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hri</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::resetInput</description>
+	<description>Yii2 - Html::resetInput()</description>
 </snippet>

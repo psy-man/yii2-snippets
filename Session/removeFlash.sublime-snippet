@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->session->removeFlash(${1:key})
+Yii::\$app->session->removeFlash(${1:\$key})
 ]]></content>
 	<tabTrigger>Srfl</tabTrigger>
 	<scope>source.php</scope>

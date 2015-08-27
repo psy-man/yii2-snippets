@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->cache->delete(${1:key})
+Yii::\$app->cache->delete(${1:\$key})
 ]]></content>
 	<tabTrigger>Cd</tabTrigger>
 	<scope>source.php</scope>

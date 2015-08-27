@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<?= Html::activeCheckbox(${1:model}, ${2:attribute}, ${3:['${4:option}' => ${5:value}]}); ?>
+<?= Html::activeCheckbox(${1:\$model}, '${2:attribute}'${3:, ['${4:option}' => '${5:value}']}); ?>
 ]]></content>
 	<tabTrigger>Hacb</tabTrigger>
 	<scope>text.html</scope>
-	<description>Yii2 - Html::activeCheckbox</description>
+	<description>Yii2 - Html::activeCheckbox()</description>
 </snippet>
