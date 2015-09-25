@@ -11,5 +11,5 @@ try {
 ]]></content>
 	<tabTrigger>Tra</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - transaction</description>
+	<description>Yii2 - DB transaction</description>
 </snippet>
