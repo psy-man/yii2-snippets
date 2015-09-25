@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->addColumn('{{%${1:table}}}', '${2:column}', \$this->${3:type});
+]]></content>
+	<tabTrigger>DMac</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Migration addColumn</description>
+</snippet>

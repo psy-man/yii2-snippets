@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->binary(${1:length})
+]]></content>
+	<tabTrigger>DSbin</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema binary</description>
+</snippet>

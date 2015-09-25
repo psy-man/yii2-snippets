@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->string(${1:length})${2:->notNull()}
+]]></content>
+	<tabTrigger>DSs</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema string</description>
+</snippet>

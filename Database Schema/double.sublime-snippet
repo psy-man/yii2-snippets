@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->double(${1:precision})${2:->notNull()}
+]]></content>
+	<tabTrigger>DSd</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema double</description>
+</snippet>

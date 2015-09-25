@@ -4,17 +4,13 @@ Yii2 Snippets - Has been updated
 
 New Features
 ------------------------------------------------------------
- - Added Active Records
- - Added Validation rules
- - Added ActiveDataProvider
- - Added Model Behaviors
- - Added LinkPager
+ - Added DB Migration
+ - Added DB Schema
 ------------------------------------------------------------
 
 Improvements
 ------------------------------------------------------------
- - new structure of snippets
- - shown a default value of non-required arguments
+ - Fixed HtmlPurifier snippet
 ------------------------------------------------------------
 
 Documentation can be found here:

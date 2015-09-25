@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->timestamp(${1:precision})
+]]></content>
+	<tabTrigger>DSts</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema timestamp</description>
+</snippet>

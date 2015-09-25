@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->boolean()${2:->notNull()}${3:->defaultValue(${4:value})}
+]]></content>
+	<tabTrigger>DSbool</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema boolean</description>
+</snippet>

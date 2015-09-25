@@ -24,6 +24,8 @@ Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 - [Render](#render)
 - [Behaviors](#behaviors)
 - [Validation rules](#validation-rules)
+- [Database Migration](#database-migration)
+- [Database Schema](#database-schema)
 - [Other](#other)
 - [Todos](#todos)
 - [License](#license)
@@ -41,7 +43,7 @@ There are several methods to install package.
 
 
 
-### Yii 
+### Yii
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -50,7 +52,7 @@ There are several methods to install package.
 | getAlias                         | Yga          |
 
 
-### Html 
+### Html
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -94,7 +96,7 @@ There are several methods to install package.
 | activeRadioList                  | Hardl        |
 
 
-### ActiveField 
+### ActiveField
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -112,7 +114,7 @@ There are several methods to install package.
 | widget                           | AFw          |
 
 
-### ArrayHelper 
+### ArrayHelper
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -128,7 +130,7 @@ There are several methods to install package.
 | htmlEncode                       | AHe          |
 
 
-### FileHelper 
+### FileHelper
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -144,7 +146,7 @@ There are several methods to install package.
 | createDirectory                  | FHcd         |
 
 
-### Url 
+### Url
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -158,7 +160,7 @@ There are several methods to install package.
 | isRelative                       | Uir          |
 
 
-### Json 
+### Json
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -167,7 +169,7 @@ There are several methods to install package.
 | decode                           | Jd           |
 
 
-### StringHelper 
+### StringHelper
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -182,7 +184,7 @@ There are several methods to install package.
 | explode                          | SHexp        |
 
 
-### Request 
+### Request
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -230,7 +232,7 @@ There are several methods to install package.
 | validateCsrfToken                | Rcsrfv       |
 
 
-### User 
+### User
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -247,7 +249,7 @@ There are several methods to install package.
 | can                              | Ucan         |
 
 
-### Session 
+### Session
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -287,7 +289,7 @@ There are several methods to install package.
 | hasFlash                         | Shfl         |
 
 
-### Cache 
+### Cache
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -307,7 +309,7 @@ There are several methods to install package.
 | offsetUnset                      | Cou          |
 
 
-### Active Record 
+### Active Record
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -326,7 +328,7 @@ There are several methods to install package.
 | model-deleteAll                  | Mda          |
 
 
-### Displaying Data 
+### Displaying Data
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -337,7 +339,7 @@ There are several methods to install package.
 | HtmlPurifier                     | HPp          |
 
 
-### Base Yii 
+### Base Yii
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -346,7 +348,7 @@ There are several methods to install package.
 | action                           | Ya           |
 
 
-### Register 
+### Register
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -357,7 +359,7 @@ There are several methods to install package.
 | registerMetaTag                  | Yrmt         |
 
 
-### Render 
+### Render
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -367,7 +369,7 @@ There are several methods to install package.
 | renderAjax                       | RDa          |
 
 
-### Behaviors 
+### Behaviors
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -377,7 +379,7 @@ There are several methods to install package.
 | BlameableBehavior                | Behb         |
 
 
-### Validation rules 
+### Validation rules
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -403,7 +405,55 @@ There are several methods to install package.
 | url                              | Vu           |
 
 
-### Other 
+### Database Migration
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| execute                          | DMe          |
+| createTable                      | DMct         |
+| dropTable                        | DMdt         |
+| truncateTable                    | DMtt         |
+| renameTable                      | DMrt         |
+| addColumn                        | DMac         |
+| dropColumn                       | DMdc         |
+| renameColumn                     | DMrc         |
+| alterColumn                      | DMalc        |
+| addPrimaryKey                    | DMapk        |
+| dropPrimaryKey                   | DMdpk        |
+| addForeignKey                    | DMafk        |
+| dropForeignKey                   | DMdfk        |
+| createIndex                      | DMci         |
+| dropIndex                        | DMdi         |
+| insert                           | DMi          |
+| batchInsert                      | DMbi         |
+| update                           | DMu          |
+| delete                           | DMd          |
+
+
+### Database Schema
+
+| Method                           | Snippet code |
+|--------------------------------- | :----------: |
+| primaryKey                       | DSpk         |
+| bigPrimaryKey                    | DSbpk        |
+| string                           | DSs          |
+| text                             | DSt          |
+| smallInteger                     | DSsi         |
+| integer                          | DSi          |
+| bigInteger                       | DSbi         |
+| float                            | DSf          |
+| double                           | DSd          |
+| decimal                          | DSdc         |
+| money                            | DSm          |
+| dateTime                         | DSdt         |
+| timestamp                        | DSts         |
+| time                             | DStime       |
+| date                             | DSdt         |
+| boolean                          | DSbool       |
+| binary                           | DSbin        |
+
+
+### Other
 
 | Method                           | Snippet code |
 |--------------------------------- | :----------: |
@@ -420,6 +470,7 @@ There are several methods to install package.
  - ~~Add DataProvider~~
  - ~~Add default behaviors (TimestampBehavior and ect...)~~
  - ~~Add validation rules~~
+ - ~~Add DB Migration~~
  - Add use statements
  - Add other useful snippets
  - Improve shortcuts

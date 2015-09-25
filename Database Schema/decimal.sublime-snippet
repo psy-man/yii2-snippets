@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->decimal(${1:precision}${2:, scale})${3:->notNull()}
+]]></content>
+	<tabTrigger>DSdc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema decimal</description>
+</snippet>

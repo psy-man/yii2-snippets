@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->primaryKey(${1:length})
+]]></content>
+	<tabTrigger>DSpk</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema primaryKey</description>
+</snippet>

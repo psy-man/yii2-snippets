@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->delete('{{%${1:table}}}', ${2:condition}${3:, params});
+]]></content>
+	<tabTrigger>DMd</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Migration delete</description>
+</snippet>

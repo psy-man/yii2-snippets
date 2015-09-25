@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->execute('${1:sql}'${2:, params});
+]]></content>
+	<tabTrigger>DMe</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Migration execute</description>
+</snippet>

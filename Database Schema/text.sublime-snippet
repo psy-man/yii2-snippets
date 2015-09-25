@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->text()
+]]></content>
+	<tabTrigger>DSt</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema text</description>
+</snippet>

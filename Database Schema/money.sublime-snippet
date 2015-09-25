@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->money(${1:precision}${2:, scale})${3:->notNull()}${4:->defaultValue(${5:value})}
+]]></content>
+	<tabTrigger>DSm</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema money</description>
+</snippet>

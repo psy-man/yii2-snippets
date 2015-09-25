@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dateTime(${1:precision})
+]]></content>
+	<tabTrigger>DSdt</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Schema dateTime</description>
+</snippet>

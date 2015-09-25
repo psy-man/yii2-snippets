@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->renameColumn('{{%${1:table}}}', '${2:name}', '${3:newName}');
+]]></content>
+	<tabTrigger>DMrc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Migration renameColumn</description>
+</snippet>
