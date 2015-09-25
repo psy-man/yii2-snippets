@@ -1,8 +1,14 @@
 <snippet>
 	<content><![CDATA[
-\$this->createTable('{{%${1:table}}}', [
+${1:\$tableOptions = null;
+if (\$this->db->driverName === 'mysql') {
+    // http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci
+    \$tableOptions = 'CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE=InnoDB';
+}
+}
+\$this->createTable('{{%${2:table}}}', [
     'id' => \$this->primaryKey(),
-	${2://columns}
+	${3://columns}
 	'created_at' => \$this->integer()->notNull(),
     'updated_at' => \$this->integer()->notNull(),
 ], \$tableOptions);
