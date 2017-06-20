@@ -1,7 +1,7 @@
 # Sublime Text Yii2 Snippets
 
 Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
-
+[https://packagecontrol.io](https://packagecontrol.io/packages/Yii2%20Snippets)
 
 ## Navigation
 - [Installation](#installation)
