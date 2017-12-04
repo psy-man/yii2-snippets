@@ -345,6 +345,8 @@ There are several methods to install package.
 | user                             | Yu           |
 | controller                       | Yc           |
 | action                           | Ya           |
+| params                           | Yp           |
+| end                              | Ye           |
 
 
 ### Register
