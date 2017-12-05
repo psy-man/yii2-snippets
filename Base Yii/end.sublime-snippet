@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Yii::\$app->end()
+Yii::\$app->end();
 ]]></content>
 	<tabTrigger>Ye</tabTrigger>
 	<scope>source.php</scope>
-	<description>Yii2 - Yii::$app->end()</description>
+	<description>Yii2 - Yii::$app->end();</description>
 </snippet>
