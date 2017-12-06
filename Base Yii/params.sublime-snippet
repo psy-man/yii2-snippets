@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->params['${1:paramName}']
+]]></content>
+	<tabTrigger>Yp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - Yii::$app->params['paramName']</description>
+</snippet>
