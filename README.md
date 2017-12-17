@@ -472,10 +472,6 @@ There are several methods to install package.
  - ~~Add default behaviors (TimestampBehavior and ect...)~~
  - ~~Add validation rules~~
  - ~~Add DB Migration~~
- - Add use statements
- - Add other useful snippets
- - Improve shortcuts
-
 
 ### License
 
