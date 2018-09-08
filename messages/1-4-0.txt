@@ -14,4 +14,4 @@ Improvements
 ------------------------------------------------------------
 
 Documentation can be found here:
-https://github.com/filipyev/yii2-snippets
+https://github.com/psy-man/yii2-snippets

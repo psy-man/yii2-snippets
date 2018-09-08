@@ -1,4 +1,4 @@
-# Sublime Text Yii2 Snippets
+# [Sublime Text Yii2 Snippets](https://packagecontrol.io/packages/Yii2%20Snippets)
 
 Useful Yii2 snippets for [Sublime text](https://sublimetext.com)
 
@@ -333,6 +333,7 @@ There are several methods to install package.
 |--------------------------------- | :----------: |
 | ListView                         | Lw           |
 | GridView                         | Gw           |
+| GridView Column                  | Gwc          |
 | LinkPager                        | Lp           |
 | echo translate                   | Yte          |
 | HtmlPurifier                     | HPp          |
@@ -480,4 +481,4 @@ Yii2 Snippets is open-sourced software licensed under the [MIT license](http://o
 
 ### PS
 
-If you have any ideas to improve this package or you found any errors, please contact me via Github.
+If you have any ideas how to improve this package or you found any errors, please contact me via Github.

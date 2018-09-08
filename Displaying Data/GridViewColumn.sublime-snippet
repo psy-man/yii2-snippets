@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+[
+    'attribute' => '${1:title}',
+    'format' 	=> 'raw',
+    'value'     => function (\$model, \$key, \$index, \$column) \{
+		return \$model->value;
+	\}
+],
+]]></content>
+	<tabTrigger>Gwc</tabTrigger>
+	<scope>source.php</scope>
+	<description>Yii2 - GridView Column</description>
+</snippet>
