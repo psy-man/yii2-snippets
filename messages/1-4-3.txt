@@ -4,10 +4,10 @@ Yii2 Snippets - Has been updated
 
 New Features
 ------------------------------------------------------------
- - Added registerMetaTag
- - Added Cache snippets
- - Added render snippets
+ - Added GridView Column (Gwc)
 ------------------------------------------------------------
+
+Thanks @wa1kb0y for contribution!
 
 Documentation can be found here:
 https://github.com/psy-man/yii2-snippets
